@@ -27,6 +27,7 @@
 
 | Project | Description |
 |--------|-------------|
+| 📈 [**CryptoTrack**](https://github.com/Divyansh670/Crypto_Tracker) | Real-time cryptocurrency tracker with portfolio management, live price updates, and data visualization. |
 | 🔧 [**WorkNest**](https://github.com/Divyansh670/Work_Nest) | Employee dashboard with task tracking, leave management, admin panel using React, TypeScript. |
 | 🏥 [**HealthMate**](https://github.com/Divyansh670/HealthMate) | Wellness tracker app with QR health card, gamified reward system, and PDF export. |
 | 📍 [**Shortest Path Finder**](https://github.com/Divyansh670/Shortest_Path_Finder) | Dijkstra’s and A* visualization with real-time cost simulation and grid UI. |
