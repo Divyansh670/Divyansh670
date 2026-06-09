@@ -5,7 +5,7 @@
 
 ---
 
-## 🏆 Highlights & Achievements (Value-Oriented)
+## 🏆 Highlights & Achievements
 
 <p align="left">
   <ul>
