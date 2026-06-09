@@ -27,7 +27,42 @@
 
 ---
 
+## 📊 Coding Profiles & Metrics
+
+<table align="center" width="100%">
+  <tr>
+    <th width="50%">🧠 LeetCode Metrics</th>
+    <th width="50%">⚡ Codeforces Profile</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <p align="center">
+        <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" height="60"/>
+        <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" height="60"/>
+        <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" height="60"/>
+        <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" height="60"/>
+      </p>
+      <a href="https://leetcode.com/u/Divyansh_Srivastav">
+        <img src="https://leetcard.jacoblin.cool/Divyansh_Srivastav?theme=dark&font=Ubuntu%20Condensed&ext=contest" width="100%" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <a href="https://codeforces.com/profile/Divy_18">
+        <img src="https://img.shields.io/badge/Codeforces-Divy__18-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+      </a>
+      <br/><br/><br/>
+      <a href="https://codeforces.com/profile/Divy_18">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Divy_18&theme=cyberpunk" width="90%" alt="Codeforces Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 </div>
+
 
 <div align="center">
 
