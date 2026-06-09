@@ -1,5 +1,36 @@
 <div align="center">
 
+# Hey there! I'm Divyansh Srivastav
+
+### **Software Engineer | Competitive Programmer | Backend & Full-Stack Systems Developer | Distributed Systems Enthusiast**
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/divyansh-srivastav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sridivyansh03@gmail.com"><img src="https://img.shields.io/badge/Email%20(Personal)-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:divyanshsrivastav.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20(Dev)-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Divyansh670"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### Technical Profile
+Software Engineer focused on developing scalable backend architectures and high-performance full-stack web applications. Grounded in strong computer science fundamentals, object-oriented design, and efficient problem-solving methodologies.
+
+* **Data Structures & Algorithms:** Proficient problem solver with 500+ algorithmic challenges solved across various platform ecosystems.
+* **Core Languages & Paradigms:** Strong command over Java and Go, rooted in strict Object-Oriented Programming (OOP) principles.
+* **Full-Stack Engineering:** Experience building production-ready applications utilizing Golang, React, TypeScript, and Node.js.
+* **System Design & Cloud:** Strong understanding of Low-Level Design (LLD), High-Level Design (HLD) paradigms, and cloud infrastructure management on AWS.
+* **Open Source Development:** Active open-source contributor, collaborating on public repositories to optimize codebases and fix architectural issues.
+* **Emerging Tech:** Developing and integrating autonomous Agentic AI frameworks to automate complex workflows.
+
+---
+
+</div>
+
+<div align="center">
+
 # 👋 Hey there! I'm Divyansh Srivastav  
 ### MERN Stack Developer | DSA Enthusiast | Cloud & AI Explorer  
 
