@@ -1,24 +1,18 @@
-<div align="center">
-
 # 👋 Hey there! I'm Divyansh Srivastav  
 ### Software Engineer | proficient in DSA | strong command in Java, Go and TypeScript | Build Projects Using React, NodeJS and GIN framework | Good at LLD and HLD architecture | Deep understanding of AWS and Agentic AI  
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🏆 Highlights & Achievements (Value-Oriented)
 
-<p align="left">
-  <ul>
-    <li>✅ <strong>400+ LeetCode problems solved</strong> — consistent DSA practice, strong problem-solving skills</li>
-    <li>✅ <strong>600+ problems across all coding platforms</strong> — broad competitive programming experience</li>
-    <li>✅ <strong>7 production-ready deployed projects</strong> — real-world apps with live users</li>
-    <li>✅ <strong>Google Arcade Program intern</strong> — industry exposure at Google</li>
-    <li>✅ <strong>Published research paper</strong> — "A Hybrid Ensemble Machine Learning Approach for Early Detection of Human Heart Disease" (IEEE-sponsored ICAICCIT 2025)</li>
-    <li>✅ <strong>BIS Ideathon Winner (1st Position)</strong> — led team, selected among Top 1% at HackWithIndia</li>
-    <li>✅ <strong>Certified:</strong> Generative AI (Google), Project Management (Microsoft), AWS Certified Cloud Practitioner (CLF-C02 Official Practice Exam)</li>
-    <li>✅ <strong>Software Developer intern at Ultimez Technologies</strong> — built production code in real team environment</li>
-  </ul>
-</p>
+- **400+ LeetCode problems solved** — consistent DSA practice, strong problem-solving skills
+- **600+ problems across all coding platforms** — broad competitive programming experience
+- **7 production-ready deployed projects** — real-world apps with live users
+- **Google Arcade Program intern** — industry exposure at Google
+- **Published research paper** — "A Hybrid Ensemble Machine Learning Approach for Early Detection of Human Heart Disease" (IEEE-sponsored ICAICCIT 2025)
+- **BIS Ideathon Winner (1st Position)** — led team, selected among Top 1% at HackWithIndia
+- **Certified:** Generative AI (Google), Project Management (Microsoft), AWS Certified Cloud Practitioner (CLF-C02 Official Practice Exam)
+- **Software Developer intern at Ultimez Technologies** — built production code in real team environment
 
 ---
 
@@ -123,5 +117,3 @@
 ---
 
 ### 🔥 "Keep Building. Keep Solving. Keep Growing." 🔥
-
-</div>
