@@ -11,19 +11,19 @@
   <a href="mailto:sridivyansh03@gmail.com"><img src="https://img.shields.io/badge/Email%20(Personal)-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="mailto:divyanshsrivastav.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20(Dev)-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Divyansh670"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Divyansh_Srivastav"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/Divy_18"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" /></a>
 </p>
 
 ---
 
 ### Technical Profile
-Software Engineer focused on developing scalable backend architectures and high-performance full-stack web applications. Grounded in strong computer science fundamentals, object-oriented design, and efficient problem-solving methodologies.
-
-* **Data Structures & Algorithms:** Proficient problem solver with 500+ algorithmic challenges solved across various platform ecosystems.
-* **Core Languages & Paradigms:** Strong command over Java and Go, rooted in strict Object-Oriented Programming (OOP) principles.
-* **Full-Stack Engineering:** Experience building production-ready applications utilizing Golang, React, TypeScript, and Node.js.
-* **System Design & Cloud:** Strong understanding of Low-Level Design (LLD), High-Level Design (HLD) paradigms, and cloud infrastructure management on AWS.
-* **Open Source Development:** Active open-source contributor, collaborating on public repositories to optimize codebases and fix architectural issues.
-* **Emerging Tech:** Developing and integrating autonomous Agentic AI frameworks to automate complex workflows.
+* **Data Structures & Algorithms:** 500+ solved problems across major competitive programming platforms.
+* **Languages & Paradigms:** Strong command of Java and Go, grounded in strict Object-Oriented Programming (OOP).
+* **Full-Stack Systems:** Building production-ready applications with Golang, React, TypeScript, and Node.js.
+* **Architecture & Cloud:** Deep understanding of LLD, HLD, and infrastructure management on AWS.
+* **Next-Gen Automation:** Actively developing and implementing autonomous Agentic AI frameworks.
+* **Community Contribution:** Open-source contributor focused on optimizing codebases and repository architecture.
 
 ---
 
