@@ -122,10 +122,27 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 [OpsMind AI](https://github.com/Divyansh670/opsmind-ai)
+> **Stack:** Go (Golang) · PostgreSQL + pgvector · Groq API · React
+Autonomous, agentic code review system that intercepts GitHub Pull Requests to analyze security vulnerabilities, cloud cost drift, and architectural violations.
+🚧 *Actively being built*
+
+</td>
+<td width="50%" valign="top">
+
 ### 📈 [CryptoTrack](https://github.com/Divyansh670/Crypto_Tracker)
 > **Stack:** React · Tailwind · CoinGecko API · Vercel
 Real-time cryptocurrency tracker with portfolio management. Helps investors track holdings, monitor live prices, and visualize market data.
 👉 **[Live App Link](https://crypto-tracker-umber-ten.vercel.app/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 [Expense Tracker](https://github.com/Divyansh670/Expence_Tracker)
+> **Stack:** Core Java · Supabase Cloud Database · REST API · JSON
+Comprehensive console-based expense management system with real-time cloud data synchronization, category analytics, and automated budget spending alerts.
 
 </td>
 <td width="50%" valign="top">
@@ -155,28 +172,11 @@ Interactive algorithm visualizer built to educate on graph traversals and simula
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐾 [SaveAPaw](https://github.com/Divyansh670/SaveAPaw)
-> **Stack:** MERN Stack (React, MongoDB, Node.js) · Vercel
-Pet adoption system built with dynamic blogs, integrated donation modules, and real-time SOS emergency alert routing.
-👉 **[Live App Link](https://save-a-paw-p6uo.vercel.app/)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 [Kisan Seva](https://github.com/Divyansh670/Kisan_Seva)
-> **Stack:** Python · React · Machine Learning (CNNs)
-Farmer empowerment hub managing equipment leasing schedules alongside localized AI crop disease prediction metrics.
-
-</td>
-</tr>
-
 </table>
 
 </div>
 
+<br/>
 <br/>
 
 ---
