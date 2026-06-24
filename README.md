@@ -40,40 +40,80 @@
 
 ---
 
-## 🏆 Highlights & Achievements (Value-Oriented)
+## 🏆 Highlights & Achievements
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/400%2B-LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<br/><sub>Consistent DSA practice · strong problem-solving skills</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/600%2B-All%20Platform%20Problems-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<br/><sub>Broad competitive programming experience</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/7-Production%20Deployed%20Apps-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-<br/><sub>Real-world apps with live users</sub>
-</td>
-</tr>
+<table width="100%" style="border-collapse: collapse;">
+  <!-- Metric Row 1 converted to standard card format -->
+  <tr>
+    <td valign="top" style="border: 1px solid #333; padding: 16px;" align="left">
+      <div align="right"><img src="https://img.shields.io/badge/400%2B-LeetCode%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></div>
+      <h3>💡 Data Structures & Algorithms</h3>
+      <p>Solved 400+ LeetCode problems through consistent daily practice, building strong programmatic problem-solving skills.</p>
+    </td>
+  </tr>
+  <!-- Metric Row 2 converted to standard card format -->
+  <tr>
+    <td valign="top" style="border: 1px solid #333; padding: 16px;" align="left">
+      <div align="right"><img src="https://img.shields.io/badge/600%2B-All%20Platform%20Problems-6C5CE7?style=flat-square&logo=codeforces&logoColor=white"/></div>
+      <h3>💻 Competitive Programming</h3>
+      <p>Cleared 600+ problems across multiple platforms, developing a broad and versatile multi-platform competitive coding footprint.</p>
+    </td>
+  </tr>
+  <!-- Metric Row 3 converted to standard card format -->
+  <tr>
+    <td valign="top" style="border: 1px solid #333; padding: 16px;" align="left">
+      <div align="right"><img src="https://img.shields.io/badge/7-Production%20Apps-00C853?style=flat-square&logo=vercel&logoColor=white"/></div>
+      <h3>🌐 Full-Stack Deployment</h3>
+      <p>Successfully shipped 7 production-ready, real-world web applications designed to handle live user interaction smoothly.</p>
+    </td>
+  </tr>
+  <!-- Achievement Row 1 -->
+  <tr>
+    <td valign="top" style="border: 1px solid #333; padding: 16px;" align="left">
+      <h3>🚀 SDE Intern | Ultimez Technologies</h3>
+      <p>Engineered production-ready, full-stack modules within enterprise ecosystem parameters, optimizing code for scalability and speed.</p>
+    </td>
+  </tr>
+  <!-- Achievement Row 2 -->
+  <tr>
+    <td valign="top" style="border: 1px solid #333; padding: 16px;" align="left">
+      <h3>📝 Research & Development</h3>
+      <p>Co-authored a research paper formatted to the <strong>Springer template</strong> leveraging a Hybrid Ensemble ML model for Advanced Heart Disease Detection.</p>
+    </td>
+  </tr>
+  <!-- Achievement Row 3 -->
+  <tr>
+    <td valign="top" style="border: 1px solid #333; padding: 16px;" align="left">
+      <h3>🥇 BIS Ideathon Winner</h3>
+      <p>Secured <strong>1st Position</strong> nationwide in the Bureau of Indian Standards National Innovation Challenge for technical creativity.</p>
+    </td>
+  </tr>
+  <!-- Achievement Row 4 -->
+  <tr>
+    <td valign="top" style="border: 1px solid #333; padding: 16px;" align="left">
+      <h3>🎯 HackWithIndia Competitor</h3>
+      <p>Achieved an elite nationwide technical ranking inside the <strong>Top 1% (Top 400)</strong> among thousands of participating engineers.</p>
+    </td>
+  </tr>
+  <!-- Achievement Row 5 -->
+  <tr>
+    <td valign="top" style="border: 1px solid #333; padding: 16px;" align="left">
+      <h3>☁️ Cloud Simulation Series</h3>
+      <p>Completed the comprehensive Google Arcade Cloud Simulation Series, mastering hands-on cloud infrastructure environments.</p>
+    </td>
+  </tr>
+  <!-- Achievement Row 6 -->
+  <tr>
+    <td valign="top" style="border: 1px solid #333; padding: 16px;" align="left">
+      <h3>⚡ Industry Certification</h3>
+      <p>Earned specialized technical validation credentials across Microsoft, Google Generative AI, and official AWS Practitioner (CLF-C02) tracks.</p>
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-* 🚀 **Software Development Engineer Intern** at Ultimez Technologies — Engineered production-ready, full-stack modules within enterprise ecosystem parameters.
-* 📝 **Research & Development** — Co-authored a research paper formatted to the **Springer template** leveraging a Hybrid Ensemble ML model for Advanced Heart Disease Detection.
-* 🥇 **BIS Ideathon Winner** — Secured **1st Position** in the Bureau of Indian Standards National Innovation Challenge.
-* 🎯 **HackWithIndia Competitor** — Achieved an elite technical ranking inside the **Top 1% (Top 400)** nationwide footprint.
-* ☁️ **Cloud Simulation Series** — Completed the comprehensive Google Arcade Cloud Simulation Series.
-* ⚡ **Industry Certification** — Earned specialized technical validation credentials across Microsoft, Google Generative AI, and official AWS Practitioner (CLF-C02) tracks.
-
 </div>
 
 <br/>
-
 ---
 
 ## 💻 Tech Stack
