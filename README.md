@@ -31,6 +31,7 @@
     Building scalable projects using <b>React, Node.js & GIN Framework</b> | <br>
     Focusing on <b>LLD/HLD Architecture</b> | <br>
     <b>AWS Cloud & Agentic AI</b> |
+   <b>Build RAG system from scratch</b> |
   </font>
 </p>
 
