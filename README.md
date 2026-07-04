@@ -28,7 +28,7 @@
   <font color="#00E5FF">
     <b>Proficient in DSA</b> | <br>
     Strong command in <b>Java, Go & TypeScript</b> | <br>
-    Building scalable projects using <b>React, Node.js & GIN Framework</b> | <br>
+    Building scalable projects using <b>React, Node.js ,SpringBoot & GIN Framework</b> | <br>
     Focusing on <b>LLD/HLD Architecture</b> | <br>
     <b>AWS Cloud & Agentic AI</b> |
    <b>Build RAG system from scratch</b> |
