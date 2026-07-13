@@ -145,7 +145,6 @@
 | Platform | Stats / Badges | Card Link |
 |:---:|:---:|:---:|
 | **LeetCode** <br/> `Divyansh_Srivastav` | <img src="https://img.shields.io/badge/400%2B_Solved-Global_Rank_%7E260k-FFA116?style=flat-square&logo=leetcode"/> | [![LeetCode Card](https://leetcard.jacoblin.cool/Divyansh_Srivastav?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=8&height=100)](https://leetcode.com/u/Divyansh_Srivastav) |
-| **Codeforces** <br/> `Divy_18` | <img src="https://img.shields.io/badge/Rating_750-Newbie-1F8ACB?style=flat-square&logo=codeforces"/> | [![Codeforces Card](https://codeforces-readme-stats.vercel.app/api/card?username=Divy_18&theme=dark&border_radius=8)](https://codeforces.com/profile/Divy_18) |
 | **GeeksforGeeks** <br/> `sridivysm3k` | <img src="https://img.shields.io/badge/Institution-KIET_Ghaziabad-2F8D46?style=flat-square&logo=geeksforgeeks"/> | [![GFG Card](https://gfgstatscard.vercel.app/sridivysm3k?theme=dark)](https://www.geeksforgeeks.org/profile/sridivysm3k) |
 
 </div>
