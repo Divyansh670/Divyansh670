@@ -48,9 +48,9 @@
   <!-- Metric Row 1 converted to standard card format -->
   <tr>
     <td valign="top" style="border: 1px solid #333; padding: 16px;" align="left">
-      <div align="right"><img src="https://img.shields.io/badge/400%2B-LeetCode%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></div>
+      <div align="right"><img src="https://img.shields.io/badge/450%2B-LeetCode%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></div>
       <h3>💡 Data Structures & Algorithms</h3>
-      <p>Solved 400+ LeetCode problems through consistent daily practice, building strong programmatic problem-solving skills.</p>
+      <p>Solved 450+ LeetCode problems through consistent daily practice, building strong programmatic problem-solving skills.</p>
     </td>
   </tr>
   <!-- Metric Row 2 converted to standard card format -->
