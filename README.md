@@ -112,7 +112,6 @@
 | Platform | Stats | Card |
 |:---:|:---:|:---:|
 | **LeetCode** <br/> `Divyansh_Srivastav` | 476+ solved · Peak rating 1443 · Top 70% | [![LeetCode Card](https://leetcard.jacoblin.cool/Divyansh_Srivastav?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=8&height=100)](https://leetcode.com/u/Divyansh_Srivastav) |
-| **GeeksforGeeks** <br/> `sridivysm3k` | KIET Ghaziabad | [![GFG Card](https://gfgstatscard.vercel.app/sridivysm3k?theme=dark)](https://www.geeksforgeeks.org/profile/sridivysm3k) |
 
 </div>
 
